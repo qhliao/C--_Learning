@@ -84,6 +84,7 @@
   <ItemGroup>
     <ClCompile Include="C++11Learning.cpp" />
     <ClCompile Include="polymorphic_wrapper_for_func_object.cpp" />
+    <ClCompile Include="type_traits_for_metaprogramming.cpp" />
     <ClCompile Include="wrapper_reference.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

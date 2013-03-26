@@ -32,5 +32,8 @@
     <ClCompile Include="polymorphic_wrapper_for_func_object.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="type_traits_for_metaprogramming.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

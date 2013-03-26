@@ -8,6 +8,8 @@
 *   pointers, or functors) whose arguments are compatible with those of the wrapper.
 *
 *   Through the example it is possible to understand its characteristics:
+*
+*   The template class function was defined inside the header <functional>, and didn't require any changes to the C++ language.
 */
 
 std::function<int (int, int)> func; //Wrapper creation using template class 'function'.
