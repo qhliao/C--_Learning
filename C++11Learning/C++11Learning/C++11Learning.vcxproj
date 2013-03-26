@@ -85,6 +85,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C++11Learning.cpp" />
+    <ClCompile Include="polymorphic_wrapper_for_func_object.cpp" />
     <ClCompile Include="stdafx.cpp" />
     <ClCompile Include="wrapper_reference.cpp" />
   </ItemGroup>

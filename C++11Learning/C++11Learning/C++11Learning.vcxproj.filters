@@ -38,5 +38,8 @@
     <ClCompile Include="wrapper_reference.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="polymorphic_wrapper_for_func_object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
