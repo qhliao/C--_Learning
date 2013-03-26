@@ -1,11 +1,15 @@
 // C++11Learning.cpp : Defines the entry point for the console application.
 //
+#include <iostream>
 
-#include "stdafx.h"
+#include "featurelist.h"
 
 
-int _tmain(int argc, _TCHAR* argv[])
+int main()
 {
-	return 0;
+    Test_Wrapper_Reference();
+
+
+    std::getchar(); // wait keyboard input to close the console.
 }
 
